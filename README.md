@@ -28,6 +28,7 @@ to seek treatment, based on 26 workplace and personal features.
 
 ## Project Structure
 
+```
 mental health treatment predictor/
 │
 ├── mental_health_predictor.ipynb   # Full analysis notebook
@@ -37,6 +38,7 @@ mental health treatment predictor/
 ├── work_interference.png
 ├── family_history.png
 └── confusion_matrix.png
+```
 
 ---
 
