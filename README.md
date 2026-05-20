@@ -79,6 +79,19 @@ missed cases — the safer error in a mental health context.
 - Employer-provided mental health benefits influence 
   treatment-seeking behaviour
 
+  ---
+
+  ## Visualizations
+
+  ### Work Interference v/s Treatment Seeking
+  ![Work Interference](images/work_interference.png)
+
+  ### Family History Impact
+  ![Family History](images/family_history.png)
+
+  ### Confusion Matrix
+  ![Confusion Matrix](images/cm.png)
+
 ---
 
 ## Libraries Used
