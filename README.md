@@ -1,4 +1,4 @@
-# Mental Health Treatment Predictor
+# Work Place Mental Health Risk Predictor - Clinical Population Analytics
 
 A machine learning project that predicts whether a tech industry 
 worker is likely to seek mental health treatment, based on workplace 
