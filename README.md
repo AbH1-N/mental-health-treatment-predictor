@@ -92,6 +92,9 @@ missed cases — the safer error in a mental health context.
   ### Confusion Matrix
   ![Confusion Matrix](images/cm.png)
 
+  ### Feature Importance
+  ![Feature Importance](images/feature_importance.png)
+
 ---
 
 ## Libraries Used
