@@ -107,6 +107,10 @@ missed cases — the safer error in a mental health context.
 
 ---
 
+**Kaggle Notebook:** [View on Kaggle](https://www.kaggle.com/code/abhinashok/work-place-mental-health-risk-predictor-clinical)
+
+---
+
 ## How to Run
 
 1. Clone the repository
