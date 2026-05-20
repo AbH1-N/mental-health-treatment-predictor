@@ -111,7 +111,7 @@ missed cases — the safer error in a mental health context.
 
 1. Clone the repository
 
-   git clone https://github.com/[your-username]/mental-health-treatment-predictor.git
+   git clone https://github.com/AbH1-N/mental-health-treatment-predictor.git
 
 2. Install dependencies
 
