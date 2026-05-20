@@ -2,7 +2,9 @@
 
 A machine learning project that predicts whether a tech industry 
 worker is likely to seek mental health treatment, based on workplace 
-and personal survey data.
+and personal survey data. This project applies predictive modelling to
+clinical survey data to identify at-risk individuals, relevant to public 
+health screening and hospital HR analytics.
 
 ---
 
