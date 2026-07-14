@@ -104,7 +104,7 @@ missed cases — the safer error in a mental health context.
 - Python 3
 - Pandas — data manipulation
 - NumPy — numerical operations
-- Matplotlib & Seaborn — data visualisation
+- Matplotlib & Seaborn, Power BI — data visualisation
 - Scikit-learn — machine learning
 
 ---
