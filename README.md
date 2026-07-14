@@ -148,3 +148,7 @@ www.linkedin.com/in/abhinashokda
 
 Dataset: Open Sourcing Mental Illness (OSMI)  
 https://osmihelp.org
+
+---
+
+*This project was formally assessed and approved by Zoople Technologies, 2026.*
